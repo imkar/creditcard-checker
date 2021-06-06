@@ -10,22 +10,22 @@ Thanks,
 
 For Installing and Running the script, do the following: 
 
-Step 1: 
++ Step 1: 
     Install Node from the link below.
     
     https://nodejs.org/en/download/current/
-
+    [Node](https://nodejs.org/en/download/current/)
     After the installation, you must see the version output from the following commands:
     $ node -v
     and
     $ npm -v
 
-Step 2:
++ Step 2:
     After installing Node, install Lodash:
 
     $ npm i --save lodash
 
-Step 3: Now, you are ready to go!
++ Step 3: Now, you are ready to go!
 
     Go to the root directory of the project and execute:
     $ node main.js
