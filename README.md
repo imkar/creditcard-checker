@@ -8,7 +8,7 @@ It is a practice of implementing the Luhn Algotihm in JavaScript, for improving 
 Thanks, Enjoy!  
 
 
-**For Installing and Running the script, do the following:** 
+**<ins>For Installing and Running the script, do the following:<ins>** 
 
 + **Step 1**: 
     Install Node from the link below.
