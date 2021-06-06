@@ -16,19 +16,17 @@ For Installing and Running the script, do the following:
     > [Node](https://nodejs.org/en/download/current/)
 
     After the installation, you must see the version output from the following commands:
-    ```
-    $ node -v  
-    ```
+    ```$ node -v```  
     and  
     ```$ npm -v```  
     
 + **Step 2**:
     After installing Node, install Lodash:
 
-    **$ npm i --save lodash**
+    ```$ npm i --save lodash```
 
 + **Step 3**: Now, you are ready to go!
 
     Go to the root directory of the project and execute:  
-    **$ node main.js**
+    ```$ node main.js```
 
