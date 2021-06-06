@@ -12,9 +12,8 @@ For Installing and Running the script, do the following:
 
 + Step 1: 
     Install Node from the link below.
-    
-    https://nodejs.org/en/download/current/
     [Node](https://nodejs.org/en/download/current/)
+
     After the installation, you must see the version output from the following commands:
     $ node -v
     and
